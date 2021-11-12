@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <h1 align="center">Hi 👋, I'm Ongar</h1>
 <h3 align="center">A passionate mobile developer from Kazakhstan</h3>
