@@ -8,4 +8,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-ongar&show_icons=true&locale=en&layout=compact" alt="developer-ongar" /></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ongar-maktanat-20200322a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/ongar-maktanat-20200322a?trk=profile-badge">Ongar Maktanat</a></div>
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ongar-maktanat-20200322a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/ongar-maktanat-20200322a?trk=profile-badge">Ongar Maktanat</a></div>
