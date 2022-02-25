@@ -32,18 +32,5 @@ Check out my pinned repo for apps I made!
 <a href="https://github.com/livinglist?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=livinglist&layout=compact&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515&hide=ruby,html" alt="top langs" height="140"/></a>
 </p>
 
-## Gallery
-<p align="center">
- <a href="https://github.com/livinglist/Hacki">
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859621-965080f3-a191-44cd-a2fc-9ac1f489ef84.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/148859627-48290a22-9679-442b-bae4-97f21546b3ae.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/155449430-d987d578-94f6-41b5-acf4-cbcb3d0e3a4d.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150713047-2710add8-0493-4c42-a710-f96dc77cfde1.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/150918515-0fc4869f-efa3-473f-90af-381daf5e4915.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/152305175-94fa3696-f40f-4f40-b040-f17fc59ff260.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/153973720-8a6aad44-7df3-4deb-8465-8c88b5e5f587.png"> 
-   <img width="200" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/153973715-a33018d2-d3b1-4bfa-be39-56f5e3c4830b.png"> 
-  </a>
-
 
 
