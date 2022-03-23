@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ongar</h1>
-<h3 align="center">A passionate software engineer from Kazakstan</h3>
+<h3 align="center">A passionate software engineer</h3>
 
   ```
 Software Engineer.
