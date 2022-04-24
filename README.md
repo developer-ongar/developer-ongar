@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ongar</h1>
-<h3 align="center">A passionate software engineer</h3>
-
-  ```
-Software Engineer.
-
-```
-
-Hi there. I'm Ongar Dev, a software engineer specializing in mobile and web application development, a programming language explorer.
   
 ## Connect
 - [Portfolio<img align="left" alt="livinglist | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][portfolio]
