@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ongar</h1>
-  
-## Connect
-- [Portfolio<img align="left" alt="livinglist | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][portfolio]
-
-- [LinkedIn<img align="left" alt="livinglist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-
-[Portfolio]: https://developer-ongar.github.io/
-[linkedin]: https://www.linkedin.com/in/ongardev/
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-ongar&label=Profile%20views&color=0e75b6&style=flat" alt="developer-ongar" /> </p>
